@@ -1,0 +1,3 @@
+Cameroun	4	1	Ethiopie
+Gabon	1	1	Ghana
+Guinée-Bissau	0	1	Soudan

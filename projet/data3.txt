@@ -1,0 +1,3 @@
+Nigéria 	0	1	Tunisie
+Sénégal	2	0	Cap VERT
+Cameroun	2	1	Comores

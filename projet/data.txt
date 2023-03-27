@@ -1,0 +1,6 @@
+Cameroun	2	1	Burkina Faso
+Sénégal	1	0	Zimbabwe
+Maroc	1	0	Ghana
+Nigéria	1	0	Egypte
+Tunisie	0	1	Mali
+Algérie	0	0	Sierra Leone
